@@ -5,7 +5,7 @@
 
 ### Hi, I'm José Manuel   :man_technologist:
 
-Desarrollador Android | Ingeniero en software | Desarrollador Frontend | Robot :robot:. (En progreso)
+Desarrollador Android | Ingeniero en software
 
 Apasionado de la programación. Autodidacta y curioso en el aprendizaje :)
 
